@@ -1,6 +1,6 @@
 {
   "name": "evt-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Retrieves EVRYTHNG API config from environment",
   "main": "index.js",
   "bin": {
