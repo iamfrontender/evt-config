@@ -12,7 +12,7 @@ Global installation is reqiured only if you want to take advantage of using glob
 ## Programmatic
 
 ```
-require('evt-config')('QA6).then(EVT.setup');
+require('evt-config')('QA6').then(EVT.setup');
 ```
 
 ## CLI
